@@ -1,0 +1,12 @@
+{
+  "projects": [
+    {
+      "name": "Example project",
+      "url": "https://projects.penguinmod.com/",
+      "views": 1200,
+      "likes": 45,
+      "favorites": 20,
+      "votes": 12
+    }
+  ]
+}
